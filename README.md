@@ -1,6 +1,6 @@
 # Canvas Image Manipulation
 
-![Image](https://drive.google.com/uc?export=view&id=17gyWC7qJnZz65wxHaiiegF-_o9bAFjab)
+![A picture of this project in action](./src/assets/img/canvas-image-manipulation_README.png)
 
 > An incredible HTML5 Canvas animation made by sampling pixels from an image and manipulating them with Javscript.
 
